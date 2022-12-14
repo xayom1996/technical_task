@@ -1,0 +1,1 @@
+const String baseUrl = 'https://my-json-server.typicode.com/Reyst/exhibit_db/list';
